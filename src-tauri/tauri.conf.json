@@ -4,11 +4,7 @@
   "version": "1.0.0",
   "app": {
     "withGlobalTauri": true,
-    "trayIcon": {
-      "iconPath": "png/weekly_512.png",
-      "iconAsTemplate": false,
-      "id": "pake-tray"
-    }
+    "trayIcon":
   },
   "build": {
     "frontendDist": "../dist"
