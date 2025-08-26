@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "app": {
     "withGlobalTauri": true,
-    "trayIcon":
+    "trayIcon": null
   },
   "build": {
     "frontendDist": "../dist"
